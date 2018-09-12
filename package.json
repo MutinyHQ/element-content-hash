@@ -1,0 +1,9 @@
+{
+  "name": "element-content-hash",
+  "version": "1.0.0",
+  "description": "Generate a unique hash based on the contents of a DOM element",
+  "main": "dist/index.min.js",
+  "repository": "git@github.com:MutinyHQ/element-content-hash.git",
+  "author": "Nikhil Mathew <nikhilmat@gmail.com>",
+  "license": "MIT"
+}
