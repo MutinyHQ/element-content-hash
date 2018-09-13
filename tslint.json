@@ -1,0 +1,21 @@
+{
+  "rulesDirectory": [
+    "tslint-plugin-prettier"
+  ],
+  "rules": {
+    "prettier": true,
+    "no-unused-variable": true,
+    "no-default-export": false,
+    "no-submodule-imports": false,
+    "prefer-conditional-expression": false,
+    "no-object-literal-type-assertion": false,
+    "no-implicit-dependencies": [
+      true,
+      "dev"
+    ]
+  },
+  "extends": [
+    "tslint:latest",
+    "tslint-config-prettier"
+  ]
+}
